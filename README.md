@@ -1,1 +1,2 @@
-# TailwindCSS_Maqueta
+# Integrantes
+Guillermo Bedoya Ortega
